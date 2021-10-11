@@ -1,0 +1,10 @@
+[package]
+name = "fbe"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+flatbuffers = "2.0.0"
+
+[build-dependencies]
+flatbuffers = "2.0.0"
